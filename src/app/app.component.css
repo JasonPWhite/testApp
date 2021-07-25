@@ -1,0 +1,15 @@
+.main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+}
+
+
+.trElementEmulation {
+    padding: 0;
+}
+
+.trElementEmulation li {
+    list-style: none;
+    clear: both;
+    padding: 10px 0px 5px 0px;
+}
